@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">SMD Assignment 1</string>
+
+    <string-array name="names">
+        <item>Amna Awais</item>
+        <item>Arsalan Amjid</item>
+
+        <item>Bismah Khan</item>
+        <item>Babar Ali</item>
+
+        <item>Carlena Chin</item>
+        <item>Curtis Rigby</item>
+
+        <item>Danish Iqrar</item>
+        <item>Damurah Dhiya</item>
+
+        <item>Ebad Ali</item>
+        <item>Emran Munir</item>
+
+        <item>Fahad Mustafa</item>
+        <item>Fatima Qureshi</item>
+
+        <item>Ghulam Ali</item>
+        <item>Gulraiz Ahmed</item>
+
+        <item>Hamza Satti</item>
+        <item>Hassan Munir</item>
+
+        <item>Imran Khan</item>
+        <item>Irtaza Ahmed</item>
+
+        <item>Junaid Jamshed</item>
+        <item>Jiya Khan</item>
+
+        <item>Kamran Khan</item>
+        <item>Katrina Kaif</item>
+
+        <item>Lareeb Latif</item>
+        <item>Laiq Ahmed</item>
+
+        <item>Muhammad Usman</item>
+        <item>Mustafa Mahmood</item>
+
+        <item>Nadeem Khan</item>
+        <item>Nabeel Ahmed</item>
+
+        <item>Osama Ahmed</item>
+        <item>Omer Khan</item>
+
+        <item>Palwasha Ali</item>
+        <item>Pervaiz Musharaf</item>
+
+        <item>Qadeer Ali</item>
+        <item>Qasim Altaf</item>
+
+        <item>Ramsha Mustafa Ali</item>
+        <item>Rabia Aziz</item>
+
+        <item>Saba Safder</item>
+        <item>Saad Ali</item>
+
+        <item>Taimoor Arif</item>
+        <item>Tahir Mahmood</item>
+
+        <item>Usman Aziz</item>
+        <item>Umar Shareef</item>
+
+        <item>Vin Diesel</item>
+        <item>Viv Richards</item>
+
+        <item>Winona Ryder</item>
+        <item>Woody Allen</item>
+
+        <item>Xun Zhou</item>
+        <item>Xavi Mira</item>
+
+        <item>Yasir Haq</item>
+        <item>Yahya Ali</item>
+
+        <item>Zeeshan Ahmed</item>
+        <item>Zubaida Appa</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>#2196f3</item>
+        <item>#673AB7</item>
+        <item>#659CD2</item>
+        <item>#e57373</item>
+        <item>#f50057</item>
+        <item>#ab47bc</item>
+        <item>#ea80fc</item>
+        <item>#7e57c2</item>
+        <item>#6200ea</item>
+        <item>#3f51b5</item>
+        <item>#3d5afe</item>
+        <item>#1976d2</item>
+        <item>#e57373</item>
+        <item>#2962ff</item>
+        <item>#4fc3f7</item>
+        <item>#f9a825</item>
+        <item>#c0000000</item>
+        <item>#ff38628b</item>
+        <item>#00c853</item>
+        <item>#598bae</item>
+        <item>#ff7043</item>
+        <item>#01579b</item>
+        <item>#2962ff</item>
+        <item>#ec407a</item>
+
+    </string-array>
+</resources>
