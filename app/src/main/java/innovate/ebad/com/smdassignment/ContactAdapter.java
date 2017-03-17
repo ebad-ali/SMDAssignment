@@ -20,7 +20,7 @@ class ContactAdapter extends ArrayAdapter<UserData> {
     private String[] colors_value;
     private int color_index = 0;
 
-    public ContactAdapter(Activity context, ArrayList<UserData> list) {
+    ContactAdapter(Activity context, ArrayList<UserData> list) {
         super(context, R.layout.activity, list);
         this.userdatalist = list;
         this.context = context;
@@ -50,19 +50,16 @@ class ContactAdapter extends ArrayAdapter<UserData> {
         if (color_index >= colors_value.length) {
             color_index = color_index % colors_value.length;
             GradientDrawable bgShape = (GradientDrawable) intial.getBackground();
-            bgShape.setStroke(1, Color.parseColor(colors_value[color_index]));
             bgShape.setColor(Color.parseColor(colors_value[color_index]));
 
         } else {
             GradientDrawable bgShape = (GradientDrawable) intial.getBackground();
-            bgShape.setStroke(1, Color.parseColor(colors_value[color_index]));
             bgShape.setColor(Color.parseColor(colors_value[color_index]));
         }
 
         name.setText(na);
         phonenumber.setText(pn);
         intial.setText(ini);
-
 
         return rowView;
     }

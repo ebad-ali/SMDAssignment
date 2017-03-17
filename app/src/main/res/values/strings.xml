@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SMD Assignment 1</string>
+    <string name="app_name">SMD Assignment</string>
 
     <string-array name="names">
         <item>Amna Awais</item>
