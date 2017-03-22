@@ -21,7 +21,7 @@ class ContactAdapter extends ArrayAdapter<UserData> {
     private int color_index = 0;
 
     ContactAdapter(Activity context, ArrayList<UserData> list) {
-        super(context, R.layout.activity, list);
+        super(context, R.layout.contact_design_layout, list);
         this.userdatalist = list;
         this.context = context;
         colors_value = context.getResources().getStringArray(R.array.colors);
@@ -32,7 +32,7 @@ class ContactAdapter extends ArrayAdapter<UserData> {
         LayoutInflater inflater = (LayoutInflater) context
                 .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
-        View rowView = inflater.inflate(R.layout.activity, parent, false);
+        View rowView = inflater.inflate(R.layout.contact_design_layout, parent, false);
 
         TextView name = (TextView) rowView.findViewById(R.id.user_name);
         TextView phonenumber = (TextView) rowView.findViewById(R.id.phone_number);
