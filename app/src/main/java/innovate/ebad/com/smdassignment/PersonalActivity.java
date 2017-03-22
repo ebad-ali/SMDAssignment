@@ -16,7 +16,6 @@ public class PersonalActivity extends AppCompatActivity {
     TextView intials_view, name_view, phone_view;
     String[] colorarray;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
