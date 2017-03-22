@@ -237,7 +237,7 @@
         <item>@color/md_blue_A700</item>
     </array>
     <color name="md_blue_50">#e3f2fd</color>
-        <color name="md_blue_100">#bbdefb</color>
+    <color name="md_blue_100">#bbdefb</color>
     <color name="md_blue_200">#90caf9</color>
     <color name="md_blue_300">#64b5f6</color>
     <color name="md_blue_400">#42a5f5</color>

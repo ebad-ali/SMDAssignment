@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">SMD Assignment</string>
+    <string name="sample_name">Ebad Ali</string>
+    <string name="sample_intital">EA</string>
+    <string name="sample_number">+92 313 5405894</string>
 
     <string-array name="names">
         <item>Amna Awais</item>
@@ -81,6 +84,88 @@
         <item>Zubaida Appa</item>
     </string-array>
 
+    <string-array name="numbers">
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+        <item>+92 313 5405894</item>
+        <item>+92 313 5405894</item>
+
+
+    </string-array>
+
     <string-array name="colors">
         <item>#2196f3</item>
         <item>#673AB7</item>
@@ -88,12 +173,12 @@
         <item>#e57373</item>
         <item>#f50057</item>
         <item>#ab47bc</item>
-        <item>#ea80fc</item>
-        <item>#7e57c2</item>
-        <item>#6200ea</item>
+        <item>#00e676</item>
+        <item>#c51162</item>
+        <item>#03A9F4</item>
         <item>#3f51b5</item>
-        <item>#3d5afe</item>
-        <item>#1976d2</item>
+        <item>#ef5350</item>
+        <item>#FFC107</item>
         <item>#e57373</item>
         <item>#2962ff</item>
         <item>#4fc3f7</item>
@@ -108,4 +193,5 @@
         <item>#ec407a</item>
 
     </string-array>
+
 </resources>
