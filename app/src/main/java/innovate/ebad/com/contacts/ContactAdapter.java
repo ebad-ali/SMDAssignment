@@ -18,7 +18,7 @@ class ContactAdapter extends ArrayAdapter<UserData> {
     private ArrayList<UserData> userdatalist;
     private final Activity context;
     private String[] colors_value;
-    int color_index = 0;
+    private int color_index = 0;
 
     ContactAdapter(Activity context, ArrayList<UserData> list) {
         super(context, R.layout.contact_design_layout, list);

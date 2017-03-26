@@ -9,9 +9,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-/**
- * Created by Ebad on 23/3/2017.
- */
+
 
 public class PersonalActivity extends AppCompatActivity {
 
