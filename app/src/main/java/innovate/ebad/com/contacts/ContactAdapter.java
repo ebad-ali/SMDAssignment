@@ -1,4 +1,4 @@
-package innovate.ebad.com.smdassignment;
+package innovate.ebad.com.contacts;
 
 
 import android.app.Activity;

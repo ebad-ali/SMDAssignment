@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SMD Assignment</string>
+    <string name="app_name">Contacts</string>
     <string name="sample_name">Ebad Ali</string>
     <string name="sample_intital">EA</string>
     <string name="sample_number">+92 313 5405894</string>
@@ -81,7 +81,7 @@
         <item>Yahya Ali</item>
 
         <item>Zeeshan Ahmed</item>
-        <item>Zubaida Appa</item>
+        <item>Zunaira Qasim</item>
     </string-array>
 
     <string-array name="numbers">
