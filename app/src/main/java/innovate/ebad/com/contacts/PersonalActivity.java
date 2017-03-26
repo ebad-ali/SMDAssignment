@@ -24,7 +24,7 @@ public class PersonalActivity extends AppCompatActivity {
         setContentView(R.layout.personal_contact_layout);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        
+
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
@@ -39,6 +39,7 @@ public class PersonalActivity extends AppCompatActivity {
         Intent intent = getIntent();
         Bundle b = intent.getExtras();
 
+        
         if (b != null) {
             String name = (String) b.get("Name");
             name_title = (String) b.get("Name");
