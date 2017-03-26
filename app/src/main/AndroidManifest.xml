@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logo"
+        android:icon="@mipmap/logo"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo"
+        android:roundIcon="@mipmap/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name="innovate.ebad.com.contacts.MainActivity">
@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="innovate.ebad.com.contacts.PersonalActivity"/>
+        <activity android:name="innovate.ebad.com.contacts.PersonalActivity" />
     </application>
 
 </manifest>
