@@ -24,8 +24,7 @@ public class PersonalActivity extends AppCompatActivity {
         setContentView(R.layout.personal_contact_layout);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-
-        // add back arrow to toolbar
+        
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
